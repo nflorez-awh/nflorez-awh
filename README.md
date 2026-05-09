@@ -1,16 +1,27 @@
-## Hi there 👋
+## hey, i'm Nelson 👋
+> software engineering student · security & backend · always building
 
-<!--
-**nflorez-awh/nflorez-awh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cybersecurity / backend / devops
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### about
+I build secure systems and clean backends.
+When curiosity strikes, I venture into frontend and game modding. Minimalist by design.
+
+**currently:** 📖 learning · 🌍 language hunting · 🎮 fighting games · 🎧 hip-hop
+
+---
+
+### stack
+
+[working on it]
+
+---
+
+### languages i speak (or am learning)
+🇨🇴 Spanish — native &nbsp;|&nbsp; 🇺🇸 English — fluent &nbsp;|&nbsp; 🇧🇷 Portuguese — learning &nbsp;|&nbsp; + always open
+
+---
+
+_dogs lover · somewhere between an anime arc and a good book · planning to move abroad_
