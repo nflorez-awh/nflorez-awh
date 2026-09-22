@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="">Portfolio</a> ·
-  <a href="">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/nelson-fl%C3%B3rez-26b788435/">LinkedIn</a> ·
   <a href="mailto:nflorez.dev@gmail.com">Email</a>
 </p>
 
