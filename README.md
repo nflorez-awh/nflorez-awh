@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://i.pinimg.com/1200x/26/41/be/2641bee1c70839c856917d4d7963ec09.jpg" width="65%" alt="banner"/>
-</div>
+
   
 <h1 align="center">hey, i'm Nelson 👋</h1>
 <p align="center">Backend developer in training — building systems that remain reliable under unpredictable user behavior</p>
