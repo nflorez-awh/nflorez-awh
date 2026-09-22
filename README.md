@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+<img src="https://i.pinimg.com/1200x/26/41/be/2641bee1c70839c856917d4d7963ec09.jpg" width="65%" alt="banner"/>
+</div>
+  
+<h1 align="center">hey, i'm Nelson 👋</h1>
+<p align="center">Backend developer in training — building systems that remain reliable under unpredictable user behavior</p>
 
-<!--
-**nflorez-awh/nflorez-awh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="">Portfolio</a> ·
+  <a href="">LinkedIn</a> ·
+  <a href="mailto:nflorez.dev@gmail.com">Email</a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <sub><b>Java · Spring Boot · PostgreSQL · Docker</b></sub>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <sub>📍 Medellín, Colombia &nbsp;·&nbsp; 🎓 Software Engineering & Digital Entertainment Design Engineering</sub>
+</p>
