@@ -4,8 +4,8 @@
 <p align="center">Backend developer in training — building systems that remain reliable under unpredictable user behavior</p>
 
 <p align="center">
-  <a href="">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/nelson-fl%C3%B3rez-26b788435/">LinkedIn</a> ·
+  <a href="" target="_blank" rel="noopener">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/nelson-fl%C3%B3rez-26b788435/" target="_blank" rel="noopener">LinkedIn</a> ·
   <a href="mailto:nflorez.dev@gmail.com">Email</a>
 </p>
 
